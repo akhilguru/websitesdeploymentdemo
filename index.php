@@ -33,7 +33,6 @@
                     <section class="post">
                         <header class="post-header">
                             <h2 class="post-title">Survey</h2>
-                            <p class="post-meta">01/19/2015</p>
                         </header>
                         <div class="post-description">
                             <form action="results.php" method="post">
