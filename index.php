@@ -14,7 +14,7 @@
         <div class="sidebar pure-u-1 pure-u-md-1-4">
             <div class="header">
                 <h1 class="brand-title">Ready</h1>
-                <h2 class="brand-tagline">AAAAAAAAAAAAAAAAAAAAAaaaAzure Websites Demo</h2>
+                <h2 class="brand-tagline">AAAAAAAAAAMMMMMMMMaaaAzure Websites Demo</h2>
                 <h3 class="content-subhead">
                     <?php
 
